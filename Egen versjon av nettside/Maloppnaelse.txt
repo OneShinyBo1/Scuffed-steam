@@ -1,0 +1,17 @@
+Planlegging: Høy
+
+Feil og mangler: Middels
+
+Unikhet: Lav
+
+Lesbarhet: Middels
+
+Variabelnavn: Middels
+
+Innrykk: Høy
+
+Kommentarer: Middels
+
+Betingelser: Middels
+
+Løkker: Middels

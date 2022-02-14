@@ -2,6 +2,8 @@
 
 
 var slideIndex = [1, 1];
+
+// mySlides2 var ment for en annen bilde karusell jeg ikke fikk tid til
 var slideId = ["mySlides1", "mySlides2"]
 
 showSlides(1, 0);
